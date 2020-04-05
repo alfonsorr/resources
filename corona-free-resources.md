@@ -11,3 +11,6 @@ The link goes to the register webpage if needed.
 
 ## Youtube courses
 * [Scala introduction in Spanish](https://www.youtube.com/playlist?list=PLu-aopgMe-_TinmDcYOUkU4Qk74fOFKXc) (Recorded) Live sessions of introduction to scala by [Habla computing](www.habla.dev)
+
+## Books
+* [Association for Computing Machinery (ACM)](https://dl.acm.org/) ACM opens all it's books during the confinement.
