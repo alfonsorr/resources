@@ -1,5 +1,8 @@
 # Resources
 
+Check free courses and other things to learn during the confinment [here](corona-free-resources)
+
+
 ## Working and showing code on cloud.
 
 * [Binder](https://mybinder.org/): Free cloud service to use a repository with jupyter notebooks. It alows to put custom kernels.
