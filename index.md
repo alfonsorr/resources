@@ -1,5 +1,6 @@
 # Free resources to get the most of during the confinement
 The link goes to the register webpage if needed.
+
 Want to add something? create a pull request in [this repository](https://github.com/alfonsorr/resources/)
 
 ## Cloud
