@@ -10,6 +10,7 @@ Want to add something? create a pull request in [this repository](https://github
 ## Learning Platforms
 * [pluralsight](www.pluralsight.com) more free courses, also check [google cloud](#Cloud) for more in this platfomr.
 * [Lightbend](https://www.lightbend.com/academy/register/0010h00001eEJDIAA4) platform of the company behind technologies like Akka and play framework.
+* [Databricks](https://academy.databricks.com/pathway/INT-AL-FREE-SP) coupon: "DB_CE" The company behind spark share it's introductory trainigs for free for one year.
 
 ## Youtube courses
 * [Scala introduction in Spanish](https://www.youtube.com/playlist?list=PLu-aopgMe-_TinmDcYOUkU4Qk74fOFKXc) (Recorded) Live sessions of introduction to scala by [Habla computing](www.habla.dev)
