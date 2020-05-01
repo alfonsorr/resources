@@ -20,7 +20,11 @@ Want to add something? create a pull request in [this repository](https://github
 ### Books
 * [Association for Computing Machinery (ACM)](https://dl.acm.org/) ACM opens all it's books during the confinement.
 * [More than 400 Free Springer Books](https://docs.google.com/spreadsheets/d/1HzdumNltTj2SHmCv3SRdoub8SvpIEn75fa4Q23x0keU/edit#gid=793911758) Google Sheet full of Springer books divided by different knowledge areas. 
-
+    - Download the whole list running (12 Gb needed): 
+     ```
+       python3 scrap_books.py pathToDownload
+     ``` 
+    
 ## Photography
 * [Nikon](https://www.nikonevents.com/us/live/nikon-school-online/)
 * [Leika](https://us.leica-camera.com/World-of-Leica/Leica-Events/About-Leica-Events/Local/North-America/2020/StayHomeWithLeica)
